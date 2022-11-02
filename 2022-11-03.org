@@ -1,0 +1,84 @@
+#+title: Blackerby Sub Plans, November 3, 2022
+#+options: toc:nil <:t
+
+* [[#b-block][B Block]]
+:PROPERTIES:
+:CUSTOM_ID: b-block
+:END:
+- *Course Title*: AP Latin
+- *Date*:     [2022-11-03 Thurs]
+- *Location*: 4S
+- *Coverer*:  [[mailto:weslie.wald@indiansprings.org][Weslie Wald]]
+- *Notes*:    attendance only
+- *Time*:     8:20 AM
+** Assignment
+Prepare DBG 6.13 for translation in class on Monday, November 7.  Mega vocab check!
+
+* [[#c-block][C Block]]
+:PROPERTIES:
+:CUSTOM_ID: c-block
+:END:
+- *Course Title*: Latin II
+- *Date*:     [2022-11-03 Thurs]
+- *Location*: 15
+- *Coverer*:  [[mailto:neil.barrett@indiansprings.org][Neil Barrett]]
+- *Time*:     9:15 AM
+** Assignment
+Read pages 120 and 121 in the textbook.  Translate the story on page 122.  When you have completed this assignment, you may quietly work on something for another class.
+
+* [[#d-block][D Block]]
+:PROPERTIES:
+:CUSTOM_ID: d-block
+:END:
+- *Course Title*: Intro to Ancient Greek
+- *Date*:     [2022-11-03 Thurs]
+- *Location*: 4S
+- *Coverer*:  [[mailto:ccopeland@indiansprings.org][Christine Copeland]]
+- *Notes*:    attendance only
+- *Time*:     10:10 AM
+** Assignment
+- Read page 81 in the textbook.
+- Complete exercise 5η on page 82.
+- Translate the story at the bottom of page 82.
+
+* [[#e-block][E Block]]
+:PROPERTIES:
+:CUSTOM_ID: e-block
+:END:
+- *Course Title*: Latin IV
+- *Date*:     [2022-11-03 Thurs]
+- *Location*: 4S
+- *Coverer*:  [[mailto:clay.colvin@indiansprings.org][Clay Colvin]]
+- *Notes*:    attendance only
+- *Time*:     12:25 PM
+** Assignment
+Begin translating the Chapter 10 story (page 226 in the second edition of the textbook).
+
+* [[#advisory][Advisory]]
+:PROPERTIES:
+:CUSTOM_ID: advisory
+:END:
+- *Course Title*: Advisory
+- *Date*:     [2022-11-03 Thurs]
+- *Location*: 12
+- *Coverer*:  [[mailto:jhorn@indiansprings.org][Jonathan Horn]]
+- *Time*:     2:15 PM
+** Assignment
+See email from Anne Burruss.
+
+* [[#g-block][G Block]]
+:PROPERTIES:
+:CUSTOM_ID: g-block
+:END:
+- *Course Title*: Latin I
+- *Date*:     [2022-11-03 Thurs]
+- *Location*: 8
+- *Coverer*:  [[mailto:ccopeland@indiansprings.org][Christine Copeland]]
+- *Time*:     2:50 PM
+** Assignment
+Continue working on the packet you received in class yesterday.
+- Read the "About the language" information on page 45.
+- Complete the exercise on page 46.
+- Translate the story on page 47.
+
+When you have finished the packet, you may quietly work on something for another class.  You do not need to finish the packet over the weekend if you don't complete it in class.
