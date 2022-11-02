@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2022-11-02 Wed 16:27 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Blackerby Sub Plans, November 4, 2022</title>
+<meta name="author" content="William Blackerby" />
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Blackerby Sub Plans, November 4, 2022</h1>
+
+<div id="outline-container-a-block" class="outline-2">
+<h2 id="a-block"><span class="section-number-2">1.</span> <a href="#a-block">A Block</a></h2>
+<div class="outline-text-2" id="text-a-block">
+<ul class="org-ul">
+<li><b>Course Title</b>: Latin III</li>
+<li><b>Date</b>:     <span class="timestamp-wrapper"><span class="timestamp">[2022-11-04 Fri]</span></span></li>
+<li><b>Location</b>: 9</li>
+<li><b>Coverer</b>:  <a href="mailto:dan.clinkman@indiansprings.org">Dan Clinkman</a></li>
+<li><b>Time</b>:     8:20 AM</li>
+</ul>
+</div>
+<div id="outline-container-org0ca48ad" class="outline-3">
+<h3 id="org0ca48ad"><span class="section-number-3">1.1.</span> Roster</h3>
+<div class="outline-text-3" id="text-1-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">last</td>
+<td class="org-left">first</td>
+<td class="org-left">grade</td>
+<td class="org-left">class</td>
+<td class="org-left">email</td>
+</tr>
+
+<tr>
+<td class="org-left">Davis</td>
+<td class="org-left">Edward</td>
+<td class="org-left">10th Grade</td>
+<td class="org-left">Latin III</td>
+<td class="org-left">edward.davis@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Doyle</td>
+<td class="org-left">Kennedy</td>
+<td class="org-left">10th Grade</td>
+<td class="org-left">Latin III</td>
+<td class="org-left">addison.doyle@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Doyle</td>
+<td class="org-left">Addison</td>
+<td class="org-left">11th Grade</td>
+<td class="org-left">Latin III</td>
+<td class="org-left">kennedy.doyle@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Embry</td>
+<td class="org-left">Joseph</td>
+<td class="org-left">11th Grade</td>
+<td class="org-left">Latin III</td>
+<td class="org-left">joseph.embry@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Friedrich</td>
+<td class="org-left">Konstantin</td>
+<td class="org-left">10th Grade</td>
+<td class="org-left">Latin III</td>
+<td class="org-left">konstantin.friedrich@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Goldberg</td>
+<td class="org-left">Aviva</td>
+<td class="org-left">10th Grade</td>
+<td class="org-left">Latin III</td>
+<td class="org-left">aviva.goldberg@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Kennedy</td>
+<td class="org-left">Libby</td>
+<td class="org-left">10th Grade</td>
+<td class="org-left">Latin III</td>
+<td class="org-left">libby.kennedy@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Lizee</td>
+<td class="org-left">Max</td>
+<td class="org-left">10th Grade</td>
+<td class="org-left">Latin III</td>
+<td class="org-left">max.lizee@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Nguyen</td>
+<td class="org-left">Alex</td>
+<td class="org-left">9th Grade</td>
+<td class="org-left">Latin III</td>
+<td class="org-left">alex.nguyen@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Stump</td>
+<td class="org-left">Izzie</td>
+<td class="org-left">11th Grade</td>
+<td class="org-left">Latin III</td>
+<td class="org-left">izzie.stump@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Turner</td>
+<td class="org-left">Aubrey</td>
+<td class="org-left">11th Grade</td>
+<td class="org-left">Latin III</td>
+<td class="org-left">aubrey.turner@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Walker</td>
+<td class="org-left">Aurelie</td>
+<td class="org-left">12th Grade</td>
+<td class="org-left">Latin III</td>
+<td class="org-left">aurelie.walker@indiansprings.org</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-orga592ae4" class="outline-3">
+<h3 id="orga592ae4"><span class="section-number-3">1.2.</span> Assignment</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Finish the exercise on page 84 if you did not finish it on Wednesday.  When you have completed it, you may have study hall (quietly!).
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-b-block" class="outline-2">
+<h2 id="b-block"><span class="section-number-2">2.</span> <a href="#b-block">B Block</a></h2>
+<div class="outline-text-2" id="text-b-block">
+<ul class="org-ul">
+<li><b>Course Title</b>: AP Latin</li>
+<li><b>Date</b>:     <span class="timestamp-wrapper"><span class="timestamp">[2022-11-04 Fri]</span></span></li>
+<li><b>Location</b>: 4S</li>
+<li><b>Coverer</b>:  <a href="mailto:weslie.wald@indiansprings.org">Weslie Wald</a></li>
+<li><b>Notes</b>:    attendance only</li>
+<li><b>Time</b>:     9:15 AM</li>
+</ul>
+</div>
+<div id="outline-container-orgb646ff8" class="outline-3">
+<h3 id="orgb646ff8"><span class="section-number-3">2.1.</span> Roster</h3>
+<div class="outline-text-3" id="text-2-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">last</td>
+<td class="org-left">first</td>
+<td class="org-left">grade</td>
+<td class="org-left">class</td>
+<td class="org-left">email</td>
+</tr>
+
+<tr>
+<td class="org-left">Graham</td>
+<td class="org-left">Sophia</td>
+<td class="org-left">11th Grade</td>
+<td class="org-left">AP Latin</td>
+<td class="org-left">sophia.graham@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Li</td>
+<td class="org-left">Olivia</td>
+<td class="org-left">12th Grade</td>
+<td class="org-left">AP Latin</td>
+<td class="org-left">olivia.li@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Meghani</td>
+<td class="org-left">Misbah</td>
+<td class="org-left">11th Grade</td>
+<td class="org-left">AP Latin</td>
+<td class="org-left">misbah.meghani@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Underwood</td>
+<td class="org-left">Mark</td>
+<td class="org-left">12th Grade</td>
+<td class="org-left">AP Latin</td>
+<td class="org-left">mark.underwood@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Xiao</td>
+<td class="org-left">Enoch</td>
+<td class="org-left">12th Grade</td>
+<td class="org-left">AP Latin</td>
+<td class="org-left">enoch.xiao@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Zhao</td>
+<td class="org-left">Frank</td>
+<td class="org-left">12th Grade</td>
+<td class="org-left">AP Latin</td>
+<td class="org-left">frank.zhao@indiansprings.org</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-org040d412" class="outline-3">
+<h3 id="org040d412"><span class="section-number-3">2.2.</span> Assignment</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Prepare DBG 6.13 for translation in class on Monday, November 7.  Mega vocab check!
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-c-block" class="outline-2">
+<h2 id="c-block"><span class="section-number-2">3.</span> <a href="#c-block">C Block</a></h2>
+<div class="outline-text-2" id="text-c-block">
+<ul class="org-ul">
+<li><b>Course Title</b>: Latin II</li>
+<li><b>Date</b>:     <span class="timestamp-wrapper"><span class="timestamp">[2022-11-04 Fri]</span></span></li>
+<li><b>Location</b>: 15</li>
+<li><b>Coverer</b>:  <a href="mailto:clay.colvin@indianspring.org">Clay Colvin</a></li>
+<li><b>Time</b>:     10:10 AM</li>
+</ul>
+</div>
+<div id="outline-container-org26136c1" class="outline-3">
+<h3 id="org26136c1"><span class="section-number-3">3.1.</span> Roster</h3>
+<div class="outline-text-3" id="text-3-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">last</td>
+<td class="org-left">first</td>
+<td class="org-left">grade</td>
+<td class="org-left">class</td>
+<td class="org-left">email</td>
+</tr>
+
+<tr>
+<td class="org-left">Albert</td>
+<td class="org-left">Nate</td>
+<td class="org-left">10th Grade</td>
+<td class="org-left">Latin II</td>
+<td class="org-left">nate.albert@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Cai</td>
+<td class="org-left">Chenrui</td>
+<td class="org-left">10th Grade</td>
+<td class="org-left">Latin II</td>
+<td class="org-left">chenrui.cai@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Garrett</td>
+<td class="org-left">Tatum</td>
+<td class="org-left">11th Grade</td>
+<td class="org-left">Latin II</td>
+<td class="org-left">tatum.garrett@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Lacy</td>
+<td class="org-left">Robin</td>
+<td class="org-left">10th Grade</td>
+<td class="org-left">Latin II</td>
+<td class="org-left">robin.lacy@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Rominger</td>
+<td class="org-left">Etta</td>
+<td class="org-left">10th Grade</td>
+<td class="org-left">Latin II</td>
+<td class="org-left">etta.rominger@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Rosenstiel</td>
+<td class="org-left">Frances</td>
+<td class="org-left">10th Grade</td>
+<td class="org-left">Latin II</td>
+<td class="org-left">frances.rosenstiel@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Spensley</td>
+<td class="org-left">Jupiter</td>
+<td class="org-left">9th Grade</td>
+<td class="org-left">Latin II</td>
+<td class="org-left">emm.spensley@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Sutton</td>
+<td class="org-left">Ann Charles</td>
+<td class="org-left">10th Grade</td>
+<td class="org-left">Latin II</td>
+<td class="org-left">anncharles.sutton@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Waara</td>
+<td class="org-left">Jett</td>
+<td class="org-left">9th Grade</td>
+<td class="org-left">Latin II</td>
+<td class="org-left">jett.waara@indiansprings.org</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-org4a11735" class="outline-3">
+<h3 id="org4a11735"><span class="section-number-3">3.2.</span> Assignment</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+Yesterday's assignment was
+</p>
+<blockquote>
+<p>
+Read pages 120 and 121 in the textbook. Translate the story on page 122. When you have completed this assignment, you may quietly work on something for another class.
+</p>
+</blockquote>
+
+<p>
+Today,
+</p>
+<ul class="org-ul">
+<li>complete any of the above that you did not complete yesterday</li>
+<li>translate the story on page 124.</li>
+</ul>
+
+<p>
+When you have completed all of the above, you may quietly work on something for another class.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-d-block" class="outline-2">
+<h2 id="d-block"><span class="section-number-2">4.</span> <a href="#d-block">D Block</a></h2>
+<div class="outline-text-2" id="text-d-block">
+<ul class="org-ul">
+<li><b>Course Title</b>: Intro to Ancient Greek</li>
+<li><b>Date</b>:     <span class="timestamp-wrapper"><span class="timestamp">[2022-11-04 Fri]</span></span></li>
+<li><b>Location</b>: 4S</li>
+<li><b>Coverer</b>:  <a href="mailto:amelia.johnson@indiansprings.org">Amelia Johnson</a></li>
+<li><b>Notes</b>:    attendance only</li>
+<li><b>Time</b>:     12:25 PM</li>
+</ul>
+</div>
+<div id="outline-container-org770b48b" class="outline-3">
+<h3 id="org770b48b"><span class="section-number-3">4.1.</span> Roster</h3>
+<div class="outline-text-3" id="text-4-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">last</td>
+<td class="org-left">first</td>
+<td class="org-left">grade</td>
+<td class="org-left">class</td>
+<td class="org-left">email</td>
+</tr>
+
+<tr>
+<td class="org-left">Friedrich</td>
+<td class="org-left">Konstantin</td>
+<td class="org-left">10th Grade</td>
+<td class="org-left">Greek</td>
+<td class="org-left">konstantin.friedrich@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Goodrich</td>
+<td class="org-left">Gibson</td>
+<td class="org-left">12th Grade</td>
+<td class="org-left">Greek</td>
+<td class="org-left">gibson.goodrich@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Jetty</td>
+<td class="org-left">Naren</td>
+<td class="org-left">12th Grade</td>
+<td class="org-left">Greek</td>
+<td class="org-left">naren.jetty@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Kurre</td>
+<td class="org-left">Santo</td>
+<td class="org-left">12th Grade</td>
+<td class="org-left">Greek</td>
+<td class="org-left">santo.kurre@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Oates</td>
+<td class="org-left">Teddy</td>
+<td class="org-left">12th Grade</td>
+<td class="org-left">Greek</td>
+<td class="org-left">teddy.oates@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Shoreibah</td>
+<td class="org-left">Nour</td>
+<td class="org-left">12th Grade</td>
+<td class="org-left">Greek</td>
+<td class="org-left">nour.shoreibah@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Su</td>
+<td class="org-left">Yvonne</td>
+<td class="org-left">12th Grade</td>
+<td class="org-left">Greek</td>
+<td class="org-left">yvonne.su@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Wallwork</td>
+<td class="org-left">Carlton</td>
+<td class="org-left">12th Grade</td>
+<td class="org-left">Greek</td>
+<td class="org-left">carlton.wallwork@indiansprings.org</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-orgd77d66a" class="outline-3">
+<h3 id="orgd77d66a"><span class="section-number-3">4.2.</span> Assignment</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+Complete any of the following that you did not complete yesterday.
+</p>
+<ul class="org-ul">
+<li>Read page 81 in the textbook.</li>
+<li>Complete exercise 5η on page 82.</li>
+<li>Translate the story at the bottom of page 82.</li>
+</ul>
+
+<p>
+When you have finished the above,
+</p>
+<ul class="org-ul">
+<li>Review the vocabulary on pages 85 and 86</li>
+<li>Begin translating the story on page 87.</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-e-block" class="outline-2">
+<h2 id="e-block"><span class="section-number-2">5.</span> <a href="#e-block">E Block</a></h2>
+<div class="outline-text-2" id="text-e-block">
+<ul class="org-ul">
+<li><b>Course Title</b>: Latin IV</li>
+<li><b>Date</b>:     <span class="timestamp-wrapper"><span class="timestamp">[2022-11-04 Fri]</span></span></li>
+<li><b>Location</b>: 4S</li>
+<li><b>Coverer</b>:  <a href="mailto:amelia.johnson@indiansprings.org">Amelia Johnson</a></li>
+<li><b>Notes</b>:    attendance only</li>
+<li><b>Time</b>:     1:20 PM</li>
+</ul>
+</div>
+<div id="outline-container-org36c82f5" class="outline-3">
+<h3 id="org36c82f5"><span class="section-number-3">5.1.</span> Roster</h3>
+<div class="outline-text-3" id="text-5-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">last</td>
+<td class="org-left">first</td>
+<td class="org-left">grade</td>
+<td class="org-left">class</td>
+<td class="org-left">email</td>
+</tr>
+
+<tr>
+<td class="org-left">Bai</td>
+<td class="org-left">Sasha</td>
+<td class="org-left">12th Grade</td>
+<td class="org-left">Latin IV</td>
+<td class="org-left">sasha.bai@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Grayson</td>
+<td class="org-left">Mary Helen</td>
+<td class="org-left">11th Grade</td>
+<td class="org-left">Latin IV</td>
+<td class="org-left">maryhelen.grayson@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Otter</td>
+<td class="org-left">Skye</td>
+<td class="org-left">11th Grade</td>
+<td class="org-left">Latin IV</td>
+<td class="org-left">skye.otter@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Thomson</td>
+<td class="org-left">Matthew</td>
+<td class="org-left">11th Grade</td>
+<td class="org-left">Latin IV</td>
+<td class="org-left">matthew.thomson@indiansprings.org</td>
+</tr>
+
+<tr>
+<td class="org-left">Wang</td>
+<td class="org-left">Walter</td>
+<td class="org-left">11th Grade</td>
+<td class="org-left">Latin IV</td>
+<td class="org-left">walter.wang@indiansprings.org</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-org9bc566e" class="outline-3">
+<h3 id="org9bc566e"><span class="section-number-3">5.2.</span> Assignment</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+Continue translating the Chapter 10 story (page 226 in the second edition of the textbook).
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: William Blackerby</p>
+<p class="date">Created: 2022-11-02 Wed 16:27</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

@@ -1,16 +1,52 @@
 #+title: Blackerby Sub Plans, November 4, 2022
 #+options: toc:nil <:t
 
+* [[#a-block][A Block]]
+:PROPERTIES:
+:CUSTOM_ID: a-block
+:END:
+- *Course Title*: Latin III
+- *Date*:     [2022-11-04 Fri]
+- *Location*: 9
+- *Coverer*:  [[mailto:dan.clinkman@indiansprings.org][Dan Clinkman]]
+- *Time*:     8:20 AM
+** Roster
+| last      | first      | grade      | class     | email                                  |
+| Davis     | Edward     | 10th Grade | Latin III | edward.davis@indiansprings.org         |
+| Doyle     | Kennedy    | 10th Grade | Latin III | addison.doyle@indiansprings.org        |
+| Doyle     | Addison    | 11th Grade | Latin III | kennedy.doyle@indiansprings.org        |
+| Embry     | Joseph     | 11th Grade | Latin III | joseph.embry@indiansprings.org         |
+| Friedrich | Konstantin | 10th Grade | Latin III | konstantin.friedrich@indiansprings.org |
+| Goldberg  | Aviva      | 10th Grade | Latin III | aviva.goldberg@indiansprings.org       |
+| Kennedy   | Libby      | 10th Grade | Latin III | libby.kennedy@indiansprings.org        |
+| Lizee     | Max        | 10th Grade | Latin III | max.lizee@indiansprings.org            |
+| Nguyen    | Alex       | 9th Grade  | Latin III | alex.nguyen@indiansprings.org          |
+| Stump     | Izzie      | 11th Grade | Latin III | izzie.stump@indiansprings.org          |
+| Turner    | Aubrey     | 11th Grade | Latin III | aubrey.turner@indiansprings.org        |
+| Walker    | Aurelie    | 12th Grade | Latin III | aurelie.walker@indiansprings.org       |
+
+** Assignment
+Finish the exercise on page 84 if you did not finish it on Wednesday.  When you have completed it, you may have study hall (quietly!).
+
 * [[#b-block][B Block]]
 :PROPERTIES:
 :CUSTOM_ID: b-block
 :END:
 - *Course Title*: AP Latin
-- *Date*:     [2022-11-03 Thurs]
+- *Date*:     [2022-11-04 Fri]
 - *Location*: 4S
 - *Coverer*:  [[mailto:weslie.wald@indiansprings.org][Weslie Wald]]
 - *Notes*:    attendance only
-- *Time*:     8:20 AM
+- *Time*:     9:15 AM
+** Roster
+| last      | first  | grade      | class    | email                            |
+| Graham    | Sophia | 11th Grade | AP Latin | sophia.graham@indiansprings.org  |
+| Li        | Olivia | 12th Grade | AP Latin | olivia.li@indiansprings.org      |
+| Meghani   | Misbah | 11th Grade | AP Latin | misbah.meghani@indiansprings.org |
+| Underwood | Mark   | 12th Grade | AP Latin | mark.underwood@indiansprings.org |
+| Xiao      | Enoch  | 12th Grade | AP Latin | enoch.xiao@indiansprings.org     |
+| Zhao      | Frank  | 12th Grade | AP Latin | frank.zhao@indiansprings.org     |
+
 ** Assignment
 Prepare DBG 6.13 for translation in class on Monday, November 7.  Mega vocab check!
 
@@ -19,54 +55,82 @@ Prepare DBG 6.13 for translation in class on Monday, November 7.  Mega vocab che
 :CUSTOM_ID: c-block
 :END:
 - *Course Title*: Latin II
-- *Date*:     [2022-11-03 Thurs]
+- *Date*:     [2022-11-04 Fri]
 - *Location*: 15
-- *Coverer*:  [[mailto:neil.barrett@indiansprings.org][Neil Barrett]]
-- *Time*:     9:15 AM
+- *Coverer*:  [[mailto:clay.colvin@indianspring.org][Clay Colvin]]
+- *Time*:     10:10 AM
+** Roster
+| last       | first       | grade      | class    | email                                |
+| Albert     | Nate        | 10th Grade | Latin II | nate.albert@indiansprings.org        |
+| Cai        | Chenrui     | 10th Grade | Latin II | chenrui.cai@indiansprings.org        |
+| Garrett    | Tatum       | 11th Grade | Latin II | tatum.garrett@indiansprings.org      |
+| Lacy       | Robin       | 10th Grade | Latin II | robin.lacy@indiansprings.org         |
+| Rominger   | Etta        | 10th Grade | Latin II | etta.rominger@indiansprings.org      |
+| Rosenstiel | Frances     | 10th Grade | Latin II | frances.rosenstiel@indiansprings.org |
+| Spensley   | Jupiter     | 9th Grade  | Latin II | emm.spensley@indiansprings.org       |
+| Sutton     | Ann Charles | 10th Grade | Latin II | anncharles.sutton@indiansprings.org  |
+| Waara      | Jett        | 9th Grade  | Latin II | jett.waara@indiansprings.org         |
+
 ** Assignment
-Read pages 120 and 121 in the textbook.  Translate the story on page 122.  When you have completed this assignment, you may quietly work on something for another class.
+Yesterday's assignment was
+#+begin_quote
+Read pages 120 and 121 in the textbook. Translate the story on page 122. When you have completed this assignment, you may quietly work on something for another class.
+#+end_quote
+
+Today,
+- complete any of the above that you did not complete yesterday
+- translate the story on page 124.
+
+When you have completed all of the above, you may quietly work on something for another class.
 
 * [[#d-block][D Block]]
 :PROPERTIES:
 :CUSTOM_ID: d-block
 :END:
 - *Course Title*: Intro to Ancient Greek
-- *Date*:     [2022-11-03 Thurs]
+- *Date*:     [2022-11-04 Fri]
 - *Location*: 4S
-- *Coverer*:  [[mailto:ccopeland@indiansprings.org][Christine Copeland]]
+- *Coverer*:  [[mailto:amelia.johnson@indiansprings.org][Amelia Johnson]]
 - *Notes*:    attendance only
-- *Time*:     10:10 AM
+- *Time*:     12:25 PM
+** Roster
+| last      | first      | grade      | class | email                                  |
+| Friedrich | Konstantin | 10th Grade | Greek | konstantin.friedrich@indiansprings.org |
+| Goodrich  | Gibson     | 12th Grade | Greek | gibson.goodrich@indiansprings.org      |
+| Jetty     | Naren      | 12th Grade | Greek | naren.jetty@indiansprings.org          |
+| Kurre     | Santo      | 12th Grade | Greek | santo.kurre@indiansprings.org          |
+| Oates     | Teddy      | 12th Grade | Greek | teddy.oates@indiansprings.org          |
+| Shoreibah | Nour       | 12th Grade | Greek | nour.shoreibah@indiansprings.org       |
+| Su        | Yvonne     | 12th Grade | Greek | yvonne.su@indiansprings.org            |
+| Wallwork  | Carlton    | 12th Grade | Greek | carlton.wallwork@indiansprings.org     |
+
 ** Assignment
+Complete any of the following that you did not complete yesterday.
 - Read page 81 in the textbook.
 - Complete exercise 5η on page 82.
 - Translate the story at the bottom of page 82.
+  
+When you have finished the above,
+- Review the vocabulary on pages 85 and 86
+- Begin translating the story on page 87.
 
 * [[#e-block][E Block]]
 :PROPERTIES:
 :CUSTOM_ID: e-block
 :END:
 - *Course Title*: Latin IV
-- *Date*:     [2022-11-03 Thurs]
+- *Date*:     [2022-11-04 Fri]
 - *Location*: 4S
-- *Coverer*:  [[mailto:clay.colvin@indiansprings.org][Clay Colvin]]
+- *Coverer*:  [[mailto:amelia.johnson@indiansprings.org][Amelia Johnson]]
 - *Notes*:    attendance only
-- *Time*:     12:25 PM
-** Assignment
-Begin translating the Chapter 10 story (page 226 in the second edition of the textbook).
+- *Time*:     1:20 PM
+** Roster
+| last    | first      | grade      | class    | email                               |
+| Bai     | Sasha      | 12th Grade | Latin IV | sasha.bai@indiansprings.org         |
+| Grayson | Mary Helen | 11th Grade | Latin IV | maryhelen.grayson@indiansprings.org |
+| Otter   | Skye       | 11th Grade | Latin IV | skye.otter@indiansprings.org        |
+| Thomson | Matthew    | 11th Grade | Latin IV | matthew.thomson@indiansprings.org   |
+| Wang    | Walter     | 11th Grade | Latin IV | walter.wang@indiansprings.org       |
 
-* [[#g-block][G Block]]
-:PROPERTIES:
-:CUSTOM_ID: g-block
-:END:
-- *Course Title*: Latin I
-- *Date*:     [2022-11-03 Thurs]
-- *Location*: 8
-- *Coverer*:  [[mailto:ccopeland@indiansprings.org][Christine Copeland]]
-- *Time*:     2:50 PM
 ** Assignment
-Continue working on the packet you received in class yesterday.
-- Read the "About the language" information on page 45.
-- Complete the exercise on page 46.
-- Translate the story on page 47.
-
-When you have finished the packet, you may quietly work on something for another class.  You do not need to finish the packet over the weekend if you don't complete it in class.
+Continue translating the Chapter 10 story (page 226 in the second edition of the textbook).
