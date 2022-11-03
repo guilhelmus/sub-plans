@@ -5,14 +5,15 @@
 :PROPERTIES:
 :CUSTOM_ID: b-block
 :END:
-- *Course Title*: AP Latin
-- *Date*:     [2022-11-03 Thurs]
-- *Location*: 4S
-- *Coverer*:  [[mailto:weslie.wald@indiansprings.org][Weslie Wald]]
-- *Notes*:    attendance only
-- *Time*:     8:20 AM
+- *Course Title* :: AP Latin
+- *Date* ::     [2022-11-03 Thurs]
+- *Location* :: 4S
+- *Coverer* ::  [[mailto:weslie.wald@indiansprings.org][Weslie Wald]]
+- *Notes* ::    attendance only
+- *Time* ::     8:20 AM
 ** Roster
 | last      | first  | grade      | class    | email                            |
+|-----------+--------+------------+----------+----------------------------------|
 | Graham    | Sophia | 11th Grade | AP Latin | sophia.graham@indiansprings.org  |
 | Li        | Olivia | 12th Grade | AP Latin | olivia.li@indiansprings.org      |
 | Meghani   | Misbah | 11th Grade | AP Latin | misbah.meghani@indiansprings.org |
@@ -27,13 +28,14 @@ Prepare DBG 6.13 for translation in class on Monday, November 7.  Mega vocab che
 :PROPERTIES:
 :CUSTOM_ID: c-block
 :END:
-- *Course Title*: Latin II
-- *Date*:     [2022-11-03 Thurs]
-- *Location*: 15
-- *Coverer*:  [[mailto:neil.barrett@indiansprings.org][Neil Barrett]]
-- *Time*:     9:15 AM
+- *Course Title* :: Latin II
+- *Date* ::     [2022-11-03 Thurs]
+- *Location* :: 15
+- *Coverer* ::  [[mailto:neil.barrett@indiansprings.org][Neil Barrett]]
+- *Time* ::     9:15 AM
 ** Roster
 | last       | first       | grade      | class    | email                                |
+|------------+-------------+------------+----------+--------------------------------------|
 | Albert     | Nate        | 10th Grade | Latin II | nate.albert@indiansprings.org        |
 | Cai        | Chenrui     | 10th Grade | Latin II | chenrui.cai@indiansprings.org        |
 | Garrett    | Tatum       | 11th Grade | Latin II | tatum.garrett@indiansprings.org      |
@@ -51,14 +53,15 @@ Read pages 120 and 121 in the textbook.  Translate the story on page 122.  When 
 :PROPERTIES:
 :CUSTOM_ID: d-block
 :END:
-- *Course Title*: Intro to Ancient Greek
-- *Date*:     [2022-11-03 Thurs]
-- *Location*: 4S
-- *Coverer*:  [[mailto:ccopeland@indiansprings.org][Christine Copeland]]
-- *Notes*:    attendance only
-- *Time*:     10:10 AM
+- *Course Title* :: Intro to Ancient Greek
+- *Date* ::     [2022-11-03 Thurs]
+- *Location* :: 4S
+- *Coverer* ::  [[mailto:ccopeland@indiansprings.org][Christine Copeland]]
+- *Notes* ::    attendance only
+- *Time* ::     10:10 AM
 ** Roster
 | last      | first      | grade      | class | email                                  |
+|-----------+------------+------------+-------+----------------------------------------|
 | Friedrich | Konstantin | 10th Grade | Greek | konstantin.friedrich@indiansprings.org |
 | Goodrich  | Gibson     | 12th Grade | Greek | gibson.goodrich@indiansprings.org      |
 | Jetty     | Naren      | 12th Grade | Greek | naren.jetty@indiansprings.org          |
@@ -77,14 +80,15 @@ Read pages 120 and 121 in the textbook.  Translate the story on page 122.  When 
 :PROPERTIES:
 :CUSTOM_ID: e-block
 :END:
-- *Course Title*: Latin IV
-- *Date*:     [2022-11-03 Thurs]
-- *Location*: 4S
-- *Coverer*:  [[mailto:clay.colvin@indiansprings.org][Clay Colvin]]
-- *Notes*:    attendance only
-- *Time*:     12:25 PM
+- *Course Title* :: Latin IV
+- *Date* ::     [2022-11-03 Thurs]
+- *Location* :: 4S
+- *Coverer* ::  [[mailto:clay.colvin@indiansprings.org][Clay Colvin]]
+- *Notes* ::    attendance only
+- *Time* ::     12:25 PM
 ** Roster
 | last    | first      | grade      | class    | email                               |
+|---------+------------+------------+----------+-------------------------------------|
 | Bai     | Sasha      | 12th Grade | Latin IV | sasha.bai@indiansprings.org         |
 | Grayson | Mary Helen | 11th Grade | Latin IV | maryhelen.grayson@indiansprings.org |
 | Otter   | Skye       | 11th Grade | Latin IV | skye.otter@indiansprings.org        |
@@ -98,13 +102,14 @@ Begin translating the Chapter 10 story (page 226 in the second edition of the te
 :PROPERTIES:
 :CUSTOM_ID: advisory
 :END:
-- *Course Title*: Advisory
-- *Date*:     [2022-11-03 Thurs]
-- *Location*: 12
-- *Coverer*:  [[mailto:jhorn@indiansprings.org][Jonathan Horn]]
-- *Time*:     2:15 PM
+- *Course Title* :: Advisory
+- *Date* ::     [2022-11-03 Thurs]
+- *Location* :: 12
+- *Coverer* ::  [[mailto:jhorn@indiansprings.org][Jonathan Horn]]
+- *Time* ::     2:15 PM
 ** Roster
 | last     | first     | grade      | class    | email                               |
+|----------+-----------+------------+----------+-------------------------------------|
 | Barton   | Nora      | 12th Grade | Advisory | nora.barton@indiansprings.org       |
 | Dunbar   | Mays      | 11th Grade | Advisory | mays.dunbar@indiansprings.org       |
 | Giattina | William   | 11th Grade | Advisory | william.giattina@indiansprings.org  |
@@ -122,13 +127,14 @@ See email from Anne Burruss.
 :PROPERTIES:
 :CUSTOM_ID: g-block
 :END:
-- *Course Title*: Latin I
-- *Date*:     [2022-11-03 Thurs]
-- *Location*: 8
-- *Coverer*:  [[mailto:ccopeland@indiansprings.org][Christine Copeland]]
-- *Time*:     2:50 PM
+- *Course Title* :: Latin I
+- *Date* ::     [2022-11-03 Thurs]
+- *Location* :: 8
+- *Coverer* ::  [[mailto:ccopeland@indiansprings.org][Christine Copeland]]
+- *Time* ::     2:50 PM
 ** Roster
 | last          | first   | grade      | class   | email                                |
+|---------------+---------+------------+---------+--------------------------------------|
 | Ahn           | Roy     | 9th Grade  | Latin I | roy.ahn@indiansprings.org            |
 | Chen          | Molly   | 12th Grade | Latin I | molly.chen@indiansprings.org         |
 | Christenberry | Gali    | 8th Grade  | Latin I | gali.christenberry@indiansprings.org |
