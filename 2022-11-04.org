@@ -8,7 +8,7 @@
 - *Course Title* :: Latin III
 - *Date* ::     [2022-11-04 Fri]
 - *Location* :: 9
-- *Coverer* ::  [[cal.woodruff@indiansprings.org][Cal Woodruff]]
+- *Coverer* ::  [[mailto:cal.woodruff@indiansprings.org][Cal Woodruff]]
 - *Time* ::     8:20 AM
 ** Roster
 | last      | first      | grade      | class     | email                                  |
